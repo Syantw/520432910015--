@@ -12,6 +12,6 @@ ___Pixel___
 通过单元圆的规则重复,甚至不规则重复,在经典的旋转构成下,探索形体可能呈现的多种结果,
 继而通过简单的重复形成复杂的形体.
 
-![你好 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B%E4%B8%8E%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E6%A6%82%E8%AE%BA%5D%E4%BD%9C%E4%B8%9A/%E4%BD%A0%E5%A5%BD.png)
+![你好 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%BA%8C%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/%E4%BD%A0%E5%A5%BD.png)
 
-![Pixel 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B%E4%B8%8E%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E6%A6%82%E8%AE%BA%5D%E4%BD%9C%E4%B8%9A/anything.png)
+![Pixel 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%BA%8C%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/anything.png)
