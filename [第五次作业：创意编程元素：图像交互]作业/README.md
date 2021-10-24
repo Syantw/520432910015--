@@ -7,7 +7,15 @@
 在遇到心动的瞬间，点击B即可随时保存；
 软件背景以仿真形态的小球为主题，
 通过点击第一个按钮，可进入随机自由连接模式；
+
 点击第二个按钮，即可进入交互控制与小球运动结合的模式，使得操作者可以控制小球进行各种合理的运动获得灵感；
+![RUNOOB 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%9B%BE%E5%83%8F%E4%BA%A4%E4%BA%92%5D%E4%BD%9C%E4%B8%9A/moment28.0.jpg)
+
 在第二个按钮点击的前提下，再次点击鼠标，即可进入随机曲线生成，与此同时，操作者的鼠标运动与曲线球的大小和状态紧密结合，使用者可在控制下探求更多的瞬间。
+![RUNOOB 图标]（https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%9B%BE%E5%83%8F%E4%BA%A4%E4%BA%92%5D%E4%BD%9C%E4%B8%9A/moment29.0.jpg）
+
 
 当想要实现酷炫效果应该怎么办呢？？在软件中即可点击P，马上就可以进入炫目的运动模式，激发更多的设计灵感与可以让使用者抓到更多的瞬间。
+![RUNOOB 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%9B%BE%E5%83%8F%E4%BA%A4%E4%BA%92%5D%E4%BD%9C%E4%B8%9A/moment1.0.jpg)
+
+
