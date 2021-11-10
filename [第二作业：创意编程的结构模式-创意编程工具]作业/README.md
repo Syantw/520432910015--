@@ -5,13 +5,20 @@ hola.pde & Pixel.pde
 -----------------------
 
 ___hola___
+--------------
 通过对文字的创意性更改,以你好和侬好为主体,形成一种词云的形式.
 在对颜色进行控制和呈现后,随机组合.
 
+***设计展示***
+
+![你好](https://user-images.githubusercontent.com/85673360/141050812-e44769c7-7536-46ee-b12a-7a93fdba9609.png)
+
+
 ___Pixel___
+-----------
 通过单元圆的规则重复,甚至不规则重复,在经典的旋转构成下,探索形体可能呈现的多种结果,
 继而通过简单的重复形成复杂的形体.
 
-![你好 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%BA%8C%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/%E4%BD%A0%E5%A5%BD.png)
-
-![Pixel 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E4%BA%8C%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/anything.png)
+***设计展示***
+![hole](https://user-images.githubusercontent.com/85673360/141050888-928ae9a0-e5dc-4048-b9e8-ce465be390f4.png)
+![anything](https://user-images.githubusercontent.com/85673360/141050892-37958ebc-f20f-46d1-a803-d60126a65ec2.png)
