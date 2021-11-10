@@ -4,12 +4,16 @@
 ---------------------------------------------------------
 通过对文本文字的以斐波那契数列为基础的随机排列,形成一种秩序的美感.
 -------------------------------------------------------------------
-例如:![RUNOOB 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/232.jpg)
+例如:
+![58](https://user-images.githubusercontent.com/85673360/141050219-53d92e49-a619-40c2-be92-d0e55762b858.jpg)
+![232](https://user-images.githubusercontent.com/85673360/141050286-bcf7a149-514b-4847-98c1-06423cc77c92.jpg)
+
 
 与此同时,用户通过对键盘和鼠标的操作,能够探寻出更多的组合形式,
-例如:![RUNOOB 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/281.jpg)
+例如:![281](https://user-images.githubusercontent.com/85673360/141050241-03b9ca92-50e3-4d7a-bb93-1c1f88f79adf.jpg)
+
 &
-![RUNOOB 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/432.jpg)
+![432](https://user-images.githubusercontent.com/85673360/141050262-8344d75e-3920-43d3-b5f9-ef5237f5d37e.jpg)
 
-![RUNOOB 图标](https://github.com/Syantw/520432910015--/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/616.jpg)
 
+![616](https://user-images.githubusercontent.com/85673360/141050271-5feb1d62-22bb-4963-b7cf-a3df90f67cb7.jpg)
